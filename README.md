@@ -1,4 +1,4 @@
-### **Hi there 👋
+### Hi there 👋
 
 I am a BSc Software Engineering for Business student at UWE Bristol, graduating in 2023.
 I have experience in various software engineering practices through implementing full-stack web and desktop applications.**  
@@ -31,7 +31,7 @@ I have experience in various software engineering practices through implementing
 
 
 
-### Backend  
+### Frameworks  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
@@ -41,7 +41,7 @@ I have experience in various software engineering practices through implementing
 
 
 
-### DevOps  
+### Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
