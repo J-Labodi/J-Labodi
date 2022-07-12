@@ -24,11 +24,8 @@ I have experience in various software engineering practices through implementing
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-
-
-<img ![sql-svgrepo-com](https://user-images.githubusercontent.com/79979904/178524679-66dadbd9-8e5b-4d33-ade5-354e974ee8eb.svg) />
-
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />    
+<img style="margin: 10px" src="https://hackr.io/tutorials/sql/logo-sql.svg?ver=1642082724" alt="Python" height="50" />    
   
 </div>
 
