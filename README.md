@@ -49,8 +49,11 @@ I have experience in various software engineering practices through implementing
 <div align="center">  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Microsoft_Office_Visio_%282019%29.svg/640px-Microsoft_Office_Visio_%282019%29.svg.png" alt="Visio" height="50" />
+<img style="margin: 10px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d3/23/5c/d3235c2b-935e-1513-53c6-259368b81fca/source/512x512bb.jpg" alt="Astah" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
+ 
+ https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d3/23/5c/d3235c2b-935e-1513-53c6-259368b81fca/source/512x512bb.jpg
 
 </td></tr></table>  
 
@@ -71,6 +74,3 @@ I have experience in various software engineering practices through implementing
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
