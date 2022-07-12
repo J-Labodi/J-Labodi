@@ -52,8 +52,6 @@ I have experience in various software engineering practices through implementing
 <img style="margin: 10px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d3/23/5c/d3235c2b-935e-1513-53c6-259368b81fca/source/512x512bb.jpg" alt="Astah" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
- 
- https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d3/23/5c/d3235c2b-935e-1513-53c6-259368b81fca/source/512x512bb.jpg
 
 </td></tr></table>  
 
