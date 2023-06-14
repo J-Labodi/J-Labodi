@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I am a BSc Software Engineering for Business student at UWE Bristol, graduating in 2023.
+I am a recent BSc Software Engineering for Business graduate at UWE Bristol. 
 I have experience in various software engineering practices through implementing full-stack web and desktop applications.
   
 
-- 🔭 I’m currently working on [Maintenance Application](https://github.com/J-Labodi/Maintenance-Application)  
+- 🔭 I’m currently working on [Wavy Surf Forecast Application](https://github.com/J-Labodi/Surf-Forecast-Application)  
   
 
-- 🌱 I’m currently learning JavaScript and NoSQL  
+- 🌱 I’m currently learning Laravel and AWS  
   
 
 <br/>  
